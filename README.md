@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/juhanighada" target="blank"><img src="https://img.shields.io/twitter/follow/juhanighada?logo=twitter&style=for-the-badge" alt="juhanighada" /></a> </p>
 
-- 🌱 I’m currently learning **Larval ,Dart**
+- 🌱 I’m currently learning **ML ,Fill stack dev**
 
 - 📝 I regularly write articles on [https://ghada-cs-code.blogspot.com/](https://ghada-cs-code.blogspot.com/)
 
