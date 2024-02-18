@@ -18,7 +18,6 @@
     me = Ghadah_Aljohani()
      me.welcomeMessage()
 
-<p align="left"> <a href="https://twitter.com/juhanighada" target="blank"><img src="https://img.shields.io/twitter/follow/juhanighada?logo=twitter&style=for-the-badge" alt="juhanighada" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
