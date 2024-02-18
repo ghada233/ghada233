@@ -1,27 +1,24 @@
-<h1 >Hi 👋, I'm Ghada Aljohani</h1>
 
-
-
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
+    #!/usr/bin/python
+    # -*- coding: utf-8 -*-
    
-class Ghadah_Aljohani:
-    def __init__(self):
+
+    class Ghadah_Aljohani:
+     
+       def __init__(self):
         self.name = "Ghadah Al johani"
         self.live = "Medinah, Saudi Arabia"
         self.role = "Create creativity and fun in this world by using AI"
         self.interested = ['Data Analysis','Programer','QA','Full Stack Devloper', 'AI in Art', 'Bioinformatics', 'Industrial design']
-        self.learning = ['AI']
+        self.learning = ['🌱  Currently learning AI']
     
     def welcomeMessage(self):
         print("Welcome to my GitHub profile.")
-me = Ghadah_Aljohani()
-me.welcomeMessage()
+    
+    me = Ghadah_Aljohani()
+     me.welcomeMessage()
 
 <p align="left"> <a href="https://twitter.com/juhanighada" target="blank"><img src="https://img.shields.io/twitter/follow/juhanighada?logo=twitter&style=for-the-badge" alt="juhanighada" /></a> </p>
-
-🌱  Currently learning AI
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
