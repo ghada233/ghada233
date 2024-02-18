@@ -23,11 +23,11 @@
 
 
 ## Connect with me
-<p align="left">
+
 <a href="https://twitter.com/juhanighada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="juhanighada" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/%d8%ba%d8%a7%d8%af%d8%a9-%d8%a7%d9%84%d8%ac%d9%87%d9%86%d9%8a-44ab46206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/%d8%ba%d8%a7%d8%af%d8%a9-%d8%a7%d9%84%d8%ac%d9%87%d9%86%d9%8a-44ab46206/" height="30" width="40" /></a>
 <a href="https://kaggle.com/ghadaaljuhani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ghadaaljuhani" height="30" width="40" /></a>
-</p>
+
 
 ## Skills & Tools 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
