@@ -1,10 +1,8 @@
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-150x25.png?v=103) 
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) 
 ![Made With Love](https://img.shields.io/badge/Made%20With-Love-red.svg)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
 
-    #!/usr/bin/python
-    # -*- coding: utf-8 -*-
-   
 
     class Ghadah_Aljohani:
      
